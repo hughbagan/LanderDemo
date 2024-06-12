@@ -1,5 +1,7 @@
 # LanderDemo
 
+![Screenshot of the game: a chrome cube on the surface of a red planet.](screenshot.PNG)
+
 Use Spacebar to blast off! Tweak your flight trajectory with W, A, S, D to touch down on the pad. Gently, now, gently!
 
 For Unreal 5.4.2
